@@ -1,0 +1,26 @@
+FastTaskAsk – dead simple timetracking
+══════════════════════════════════════
+
+This is a _really_ simple timetracking script:
+
+ 1. Launch it.
+ 2. It will ask you for a description of what you’re doing. Enter one, or
+    leave the field blank.
+ 3. It will append a line containing date and time of when you started it plus
+    the description you’ve entered to ~/fasttaskask.txt.
+
+If you don’t enter anything, the description in the file will be blank.
+
+Note that date and time of you _starting_ FastTaskAsk will be written. That
+means that you can launch it as soon as the phone rings, but don’t have to enter
+a description yet. Just leave the window open until after the call, enter a
+description then, and hit OK.
+
+You can use a tool like BetterTouchTool <http://www.boastr.de/> to bind FTA to a
+hotkey or something like that.
+
+
+LICENSE: FTA is licensed under the terms of the WTFPL, version whatever.
+         <http://sam.zoy.org/wtfpl/>
+
+FIND IT: The FTA code lives at <https://github.com/scy/FastTaskAsk>.
